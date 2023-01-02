@@ -1,0 +1,48 @@
+{
+  "itemId" : "_B1AagH5aEe2LEuM2q6oWTQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_KK5QQIbSEe27b5TibM3c3A",
+    "parameterList" : [ {
+      "id" : "_KLS44YbSEe27b5TibM3c3A",
+      "name" : "connection_oracle_database"
+    }, {
+      "id" : "_KLS44obSEe27b5TibM3c3A",
+      "name" : "connection_oracle_schema"
+    }, {
+      "id" : "_KLS444bSEe27b5TibM3c3A",
+      "name" : "connection_oracle_host"
+    }, {
+      "id" : "_KLS45IbSEe27b5TibM3c3A",
+      "name" : "connection_oracle_port"
+    }, {
+      "id" : "_KLS45YbSEe27b5TibM3c3A",
+      "name" : "connection_oracle_username"
+    }, {
+      "id" : "_KLS45obSEe27b5TibM3c3A",
+      "name" : "connection_oracle_password"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_KK5QQIbSEe27b5TibM3c3A",
+    "parameterList" : [ {
+      "id" : "_KLS44YbSEe27b5TibM3c3A",
+      "name" : "connection_oracle_database"
+    }, {
+      "id" : "_KLS44obSEe27b5TibM3c3A",
+      "name" : "connection_oracle_schema"
+    }, {
+      "id" : "_KLS444bSEe27b5TibM3c3A",
+      "name" : "connection_oracle_host"
+    }, {
+      "id" : "_KLS45IbSEe27b5TibM3c3A",
+      "name" : "connection_oracle_port"
+    }, {
+      "id" : "_KLS45YbSEe27b5TibM3c3A",
+      "name" : "connection_oracle_username"
+    }, {
+      "id" : "_KLS45obSEe27b5TibM3c3A",
+      "name" : "connection_oracle_password"
+    } ]
+  } ]
+}

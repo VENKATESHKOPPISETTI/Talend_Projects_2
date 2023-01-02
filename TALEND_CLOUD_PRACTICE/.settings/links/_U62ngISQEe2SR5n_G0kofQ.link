@@ -1,0 +1,23 @@
+{
+  "itemId" : "_U62ngISQEe2SR5n_G0kofQ",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_P2IbcIMGEe2A_4unGhUM-Q",
+    "parameterList" : [ {
+      "id" : "_P2lHZYMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Login"
+    }, {
+      "id" : "_P2lHZIMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Password"
+    }, {
+      "id" : "_P2lHZ4MGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Port"
+    }, {
+      "id" : "_P2lHYoMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Server"
+    }, {
+      "id" : "_P2lHZoMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_ServiceName"
+    } ]
+  } ]
+}

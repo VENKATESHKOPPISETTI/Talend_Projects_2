@@ -1,0 +1,32 @@
+{
+  "itemId" : "_Dpl9kH5aEe2LEuM2q6oWTQ",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_Nl80sIJaEe2b8YqQaLSvSQ",
+    "parameterList" : [ {
+      "id" : "_Nm2MkYJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Schema"
+    }, {
+      "id" : "_Nm2MkoJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Server"
+    }, {
+      "id" : "_Nm2Mk4JaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Login"
+    }, {
+      "id" : "_Nm2MlIJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Port"
+    }, {
+      "id" : "_Nm2MlYJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Password"
+    }, {
+      "id" : "_Nm2MloJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_ServiceName"
+    }, {
+      "id" : "_Nm2Ml4JaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_AdditionalParams"
+    }, {
+      "id" : "_A5ev0IJfEe2b8YqQaLSvSQ",
+      "name" : "Table_Name"
+    } ]
+  } ]
+}

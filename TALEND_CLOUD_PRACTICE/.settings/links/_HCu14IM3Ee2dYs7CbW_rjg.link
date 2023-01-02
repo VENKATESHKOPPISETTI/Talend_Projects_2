@@ -1,0 +1,98 @@
+{
+  "itemId" : "_HCu14IM3Ee2dYs7CbW_rjg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_od0bsIC9Ee2xmdoXq4NKOQ",
+    "parameterList" : [ {
+      "id" : "_oeRusYC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_db"
+    }, {
+      "id" : "_oeRusoC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_userPassword_userId"
+    }, {
+      "id" : "_oeRus4C9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_warehouse"
+    }, {
+      "id" : "_oeRutIC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_schemaName"
+    }, {
+      "id" : "_oeRutYC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_account"
+    }, {
+      "id" : "_oeRutoC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_role"
+    }, {
+      "id" : "_oeRut4C9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_userPassword_password"
+    }, {
+      "id" : "_oeRuuIC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_loginTimeout"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_P2IbcIMGEe2A_4unGhUM-Q",
+    "parameterList" : [ {
+      "id" : "_P2lHZIMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Password"
+    }, {
+      "id" : "_P2lHZoMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_ServiceName"
+    }, {
+      "id" : "_P2lHZYMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Login"
+    }, {
+      "id" : "_P2lHYoMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Server"
+    }, {
+      "id" : "_P2lHZ4MGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Port"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_od0bsIC9Ee2xmdoXq4NKOQ",
+    "parameterList" : [ {
+      "id" : "_oeRusYC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_db"
+    }, {
+      "id" : "_oeRusoC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_userPassword_userId"
+    }, {
+      "id" : "_oeRus4C9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_warehouse"
+    }, {
+      "id" : "_oeRutIC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_schemaName"
+    }, {
+      "id" : "_oeRutYC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_account"
+    }, {
+      "id" : "_oeRutoC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_role"
+    }, {
+      "id" : "_oeRut4C9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_userPassword_password"
+    }, {
+      "id" : "_oeRuuIC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_loginTimeout"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_P2IbcIMGEe2A_4unGhUM-Q",
+    "parameterList" : [ {
+      "id" : "_P2lHZIMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Password"
+    }, {
+      "id" : "_P2lHZoMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_ServiceName"
+    }, {
+      "id" : "_P2lHZYMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Login"
+    }, {
+      "id" : "_P2lHYoMGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Server"
+    }, {
+      "id" : "_P2lHZ4MGEe2A_4unGhUM-Q",
+      "name" : "Oracle_dev_Port"
+    } ]
+  } ]
+}

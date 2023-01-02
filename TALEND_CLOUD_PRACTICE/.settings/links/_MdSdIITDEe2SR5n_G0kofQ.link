@@ -1,0 +1,98 @@
+{
+  "itemId" : "_MdSdIITDEe2SR5n_G0kofQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Nl80sIJaEe2b8YqQaLSvSQ",
+    "parameterList" : [ {
+      "id" : "_Nm2MkYJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Schema"
+    }, {
+      "id" : "_Nm2MkoJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Server"
+    }, {
+      "id" : "_Nm2Mk4JaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Login"
+    }, {
+      "id" : "_Nm2MlIJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Port"
+    }, {
+      "id" : "_Nm2MlYJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Password"
+    }, {
+      "id" : "_Nm2MloJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_ServiceName"
+    }, {
+      "id" : "_Nm2Ml4JaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_nC5kEIbXEe27b5TibM3c3A",
+    "parameterList" : [ {
+      "id" : "_4pXrhYbXEe27b5TibM3c3A",
+      "name" : "connection_oracle_password"
+    }, {
+      "id" : "_4pXrgIbXEe27b5TibM3c3A",
+      "name" : "connection_oracle_database"
+    }, {
+      "id" : "_4pXrgobXEe27b5TibM3c3A",
+      "name" : "connection_oracle_schema"
+    }, {
+      "id" : "_4pXrg4bXEe27b5TibM3c3A",
+      "name" : "connection_oracle_port"
+    }, {
+      "id" : "_uRkxRIbXEe27b5TibM3c3A",
+      "name" : "Oracle_dev_host"
+    }, {
+      "id" : "_4pXrgYbXEe27b5TibM3c3A",
+      "name" : "connection_oracle_username"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_Nl80sIJaEe2b8YqQaLSvSQ",
+    "parameterList" : [ {
+      "id" : "_Nm2MkYJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Schema"
+    }, {
+      "id" : "_Nm2MkoJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Server"
+    }, {
+      "id" : "_Nm2Mk4JaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Login"
+    }, {
+      "id" : "_Nm2MlIJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Port"
+    }, {
+      "id" : "_Nm2MlYJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_Password"
+    }, {
+      "id" : "_Nm2MloJaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_ServiceName"
+    }, {
+      "id" : "_Nm2Ml4JaEe2b8YqQaLSvSQ",
+      "name" : "Oracle_Cloud1_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_nC5kEIbXEe27b5TibM3c3A",
+    "parameterList" : [ {
+      "id" : "_4pXrhYbXEe27b5TibM3c3A",
+      "name" : "connection_oracle_password"
+    }, {
+      "id" : "_4pXrgIbXEe27b5TibM3c3A",
+      "name" : "connection_oracle_database"
+    }, {
+      "id" : "_4pXrgobXEe27b5TibM3c3A",
+      "name" : "connection_oracle_schema"
+    }, {
+      "id" : "_4pXrg4bXEe27b5TibM3c3A",
+      "name" : "connection_oracle_port"
+    }, {
+      "id" : "_uRkxSobXEe27b5TibM3c3A",
+      "name" : "Oracle_dev_host"
+    }, {
+      "id" : "_4pXrgYbXEe27b5TibM3c3A",
+      "name" : "connection_oracle_username"
+    } ]
+  } ]
+}

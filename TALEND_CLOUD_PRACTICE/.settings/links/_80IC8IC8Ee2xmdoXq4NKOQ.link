@@ -1,0 +1,32 @@
+{
+  "itemId" : "_80IC8IC8Ee2xmdoXq4NKOQ",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_od0bsIC9Ee2xmdoXq4NKOQ",
+    "parameterList" : [ {
+      "id" : "_oeRusYC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_db"
+    }, {
+      "id" : "_oeRusoC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_userPassword_userId"
+    }, {
+      "id" : "_oeRus4C9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_warehouse"
+    }, {
+      "id" : "_oeRutIC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_schemaName"
+    }, {
+      "id" : "_oeRutYC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_account"
+    }, {
+      "id" : "_oeRutoC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_role"
+    }, {
+      "id" : "_oeRut4C9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_userPassword_password"
+    }, {
+      "id" : "_oeRuuIC9Ee2xmdoXq4NKOQ",
+      "name" : "SNOWFLAKE_CONNECTION_2_loginTimeout"
+    } ]
+  } ]
+}
